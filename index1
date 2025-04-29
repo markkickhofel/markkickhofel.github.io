@@ -58,7 +58,8 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <p>Live Lighting Designer.</p>
     <img src="/w3images/man_smoke.jpg" alt="Welcome!" class="w3-image" width="992" height="1108">
   </header>
-
+    <img src="Mark1.jpg" alt="Welcome!" class="w3-image" width="992" height="1108">
+  </header>
   <!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
     <h2 class="w3-text-light-grey">About Mark Kickhofel:</h2>
